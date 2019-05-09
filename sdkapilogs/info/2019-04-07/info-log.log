@@ -1,0 +1,297 @@
+2019-04-07 09:25:31.147 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:25:31.770 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:25:31.771 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:25:31.831 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554600331145"}
+2019-04-07 09:25:31.831 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:25:32.712 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:25:32.713 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:25:31 GMT]}
+2019-04-07 09:25:32.715 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:25:32.715 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:25:32.716 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554600331145"}
+2019-04-07 09:25:32.716 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:25:32.842 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:25:32.843 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:25:31 GMT]}
+2019-04-07 09:25:32.845 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:25:32.845 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:25:32.846 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554600331145"}
+2019-04-07 09:25:32.846 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:25:33.009 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:25:33.009 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:25:31 GMT]}
+2019-04-07 09:25:33.010 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:25:33.010 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:25:33.010 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554600331145"}
+2019-04-07 09:25:33.010 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:25:33.186 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:25:33.187 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:25:31 GMT]}
+2019-04-07 09:26:17.378 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:26:18.003 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:26:18.003 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:26:18.106 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554600377375"}
+2019-04-07 09:26:18.107 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:26:18.840 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:26:18.840 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:26:17 GMT]}
+2019-04-07 09:26:18.841 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:26:18.842 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:26:18.842 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554600377375"}
+2019-04-07 09:26:18.842 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:26:19.034 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:26:19.034 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:26:17 GMT]}
+2019-04-07 09:26:19.035 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:26:19.035 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:26:19.035 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554600377375"}
+2019-04-07 09:26:19.035 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:26:19.203 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:26:19.204 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:26:17 GMT]}
+2019-04-07 09:26:19.205 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:26:19.205 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:26:19.205 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554600377375"}
+2019-04-07 09:26:19.205 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:26:19.378 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:26:19.378 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:26:17 GMT]}
+2019-04-07 09:43:26.387 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:43:26.982 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:43:26.982 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:43:27.032 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554601406375"}
+2019-04-07 09:43:27.032 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:43:27.660 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:43:27.661 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:43:26 GMT]}
+2019-04-07 09:43:27.662 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:43:27.663 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:43:27.663 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554601406375"}
+2019-04-07 09:43:27.663 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:43:27.845 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:43:27.846 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:43:26 GMT]}
+2019-04-07 09:43:27.847 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:43:27.847 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:43:27.847 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554601406375"}
+2019-04-07 09:43:27.847 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:43:27.970 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:43:27.970 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:43:26 GMT]}
+2019-04-07 09:43:27.971 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:43:27.972 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:43:27.972 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554601406375"}
+2019-04-07 09:43:27.972 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:43:28.135 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:43:28.136 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:43:26 GMT]}
+2019-04-07 09:44:08.986 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:44:09.548 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:44:09.548 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:44:09.595 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554601448982"}
+2019-04-07 09:44:09.595 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:44:10.170 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:44:10.170 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:44:08 GMT]}
+2019-04-07 09:44:10.171 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:44:10.172 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:44:10.172 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554601448982"}
+2019-04-07 09:44:10.172 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:44:10.338 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:44:10.338 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:44:08 GMT]}
+2019-04-07 09:44:10.339 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:44:10.340 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:44:10.340 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554601448982"}
+2019-04-07 09:44:10.340 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:44:10.497 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:44:10.497 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:44:08 GMT]}
+2019-04-07 09:44:10.498 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:44:10.498 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:44:10.498 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554601448982"}
+2019-04-07 09:44:10.499 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:44:10.628 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:44:10.629 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:44:09 GMT]}
+2019-04-07 09:51:02.804 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:51:29.726 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:56:08.733 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:56:09.384 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:56:09.384 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:56:09.435 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602168727"}
+2019-04-07 09:56:09.436 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:56:10.040 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:56:10.041 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:56:08 GMT]}
+2019-04-07 09:56:10.042 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:56:10.042 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:56:10.042 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602168727"}
+2019-04-07 09:56:10.042 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:56:10.260 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:56:10.260 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:56:08 GMT]}
+2019-04-07 09:56:10.261 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:56:10.261 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:56:10.261 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602168727"}
+2019-04-07 09:56:10.261 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:56:10.481 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:56:10.481 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:56:08 GMT]}
+2019-04-07 09:56:10.483 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:56:10.483 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:56:10.483 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602168727"}
+2019-04-07 09:56:10.484 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:56:10.665 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:56:10.666 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:56:09 GMT]}
+2019-04-07 09:57:29.282 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:57:29.841 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:57:29.841 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:57:29.899 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602249281"}
+2019-04-07 09:57:29.899 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:57:30.490 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:57:30.491 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:57:28 GMT]}
+2019-04-07 09:57:30.494 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:57:30.494 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:57:30.494 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602249281"}
+2019-04-07 09:57:30.494 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:57:30.673 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:57:30.674 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:57:29 GMT]}
+2019-04-07 09:57:30.676 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:57:30.676 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:57:30.676 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602249281"}
+2019-04-07 09:57:30.676 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:57:30.848 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:57:30.848 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:57:29 GMT]}
+2019-04-07 09:57:30.849 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:57:30.849 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:57:30.849 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602249281"}
+2019-04-07 09:57:30.849 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:57:31.014 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:57:31.015 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:57:29 GMT]}
+2019-04-07 09:58:19.275 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:58:19.915 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:58:19.915 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:58:19.965 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602299272"}
+2019-04-07 09:58:19.965 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:58:20.516 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:58:20.516 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:58:19 GMT]}
+2019-04-07 09:58:20.517 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:58:20.518 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:58:20.518 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602299272"}
+2019-04-07 09:58:20.518 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:58:20.696 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:58:20.697 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:58:19 GMT]}
+2019-04-07 09:58:20.698 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:58:20.698 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:58:20.698 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602299272"}
+2019-04-07 09:58:20.698 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:58:20.848 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:58:20.848 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:58:19 GMT]}
+2019-04-07 09:58:20.849 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:58:20.849 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:58:20.849 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602299272"}
+2019-04-07 09:58:20.849 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:58:21.023 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:58:21.024 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:58:19 GMT]}
+2019-04-07 09:59:48.161 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 09:59:48.871 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:59:48.871 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:59:48.927 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602388159"}
+2019-04-07 09:59:48.927 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:59:49.631 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:59:49.631 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:59:48 GMT]}
+2019-04-07 09:59:49.632 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:59:49.633 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:59:49.633 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602388159"}
+2019-04-07 09:59:49.633 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:59:49.748 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:59:49.748 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:59:48 GMT]}
+2019-04-07 09:59:49.749 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:59:49.749 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:59:49.749 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602388159"}
+2019-04-07 09:59:49.749 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:59:49.924 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:59:49.925 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:59:48 GMT]}
+2019-04-07 09:59:49.926 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 09:59:49.926 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 09:59:49.926 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554602388159"}
+2019-04-07 09:59:49.926 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 09:59:50.106 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 09:59:50.106 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 01:59:48 GMT]}
+2019-04-07 10:17:07.840 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 10:42:19.399 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 10:43:40.404 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 10:43:40.894 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:43:40.894 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:43:40.947 INFO  TestCase.TestCase - requestHeaders:{}
+2019-04-07 10:43:40.947 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:43:41.300 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:43:41.300 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:43:41.300 INFO  TestCase.TestCase - requestHeaders:{}
+2019-04-07 10:43:41.300 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:43:41.354 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:43:41.354 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:43:41.354 INFO  TestCase.TestCase - requestHeaders:{}
+2019-04-07 10:43:41.355 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:43:41.397 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:43:41.397 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:43:41.397 INFO  TestCase.TestCase - requestHeaders:{}
+2019-04-07 10:43:41.397 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:46:27.211 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 10:46:27.788 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:46:27.789 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:46:27.836 INFO  TestCase.TestCase - requestHeaders:{}
+2019-04-07 10:46:27.837 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:46:28.246 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:46:28.246 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:46:28.246 INFO  TestCase.TestCase - requestHeaders:{}
+2019-04-07 10:46:28.246 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:46:28.301 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:46:28.302 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:46:28.302 INFO  TestCase.TestCase - requestHeaders:{}
+2019-04-07 10:46:28.302 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:46:28.351 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:46:28.351 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:46:28.351 INFO  TestCase.TestCase - requestHeaders:{}
+2019-04-07 10:46:28.351 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:49:09.741 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 10:49:10.410 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:49:10.874 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:49:10.969 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:49:11.061 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:50:17.780 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 10:50:18.464 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:51:01.240 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:51:52.204 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 10:51:52.852 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:51:52.952 INFO  TestCase.TestCase - ResponseHeaders:{null:["HTTP/1.1 200 OK"],"content-length":["46"]}
+2019-04-07 10:51:52.953 INFO  TestCase.TestCase - ResponseBody:{"desc":"protocol not support.","status":3014}
+2019-04-07 10:51:53.289 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:51:53.312 INFO  TestCase.TestCase - ResponseHeaders:{null:["HTTP/1.1 200 OK"],"content-length":["46"]}
+2019-04-07 10:51:53.312 INFO  TestCase.TestCase - ResponseBody:{"desc":"protocol not support.","status":3014}
+2019-04-07 10:51:53.351 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:51:53.374 INFO  TestCase.TestCase - ResponseHeaders:{null:["HTTP/1.1 200 OK"],"content-length":["46"]}
+2019-04-07 10:51:53.374 INFO  TestCase.TestCase - ResponseBody:{"desc":"protocol not support.","status":3014}
+2019-04-07 10:51:53.407 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:51:53.437 INFO  TestCase.TestCase - ResponseHeaders:{null:["HTTP/1.1 200 OK"],"content-length":["46"]}
+2019-04-07 10:51:53.438 INFO  TestCase.TestCase - ResponseBody:{"desc":"protocol not support.","status":3014}
+2019-04-07 10:53:08.267 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 10:53:08.805 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:53:08.908 INFO  TestCase.TestCase - ResponseHeaders:{null:["HTTP/1.1 200 OK"],"content-length":["46"]}
+2019-04-07 10:53:08.909 INFO  TestCase.TestCase - ResponseBody:{"desc":"protocol not support.","status":3014}
+2019-04-07 10:53:09.250 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:53:09.273 INFO  TestCase.TestCase - ResponseHeaders:{null:["HTTP/1.1 200 OK"],"content-length":["46"]}
+2019-04-07 10:53:09.273 INFO  TestCase.TestCase - ResponseBody:{"desc":"protocol not support.","status":3014}
+2019-04-07 10:53:09.306 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:53:09.329 INFO  TestCase.TestCase - ResponseHeaders:{null:["HTTP/1.1 200 OK"],"content-length":["46"]}
+2019-04-07 10:53:09.330 INFO  TestCase.TestCase - ResponseBody:{"desc":"protocol not support.","status":3014}
+2019-04-07 10:53:09.362 INFO  TestCase.TestCase - RequestHeaders:{"apiver":"110","chan":"MEIZU2"}
+2019-04-07 10:53:09.384 INFO  TestCase.TestCase - ResponseHeaders:{null:["HTTP/1.1 200 OK"],"content-length":["46"]}
+2019-04-07 10:53:09.384 INFO  TestCase.TestCase - ResponseBody:{"desc":"protocol not support.","status":3014}
+2019-04-07 10:59:53.417 INFO  TestCase.TestCase - SELECT PROJECTNAME,APINAME,CASENAME,REQUESTDATA,ASSERTFIELD,ASSERTVALUE,ASSERTTEXT FROM API_TESTCASE_TABLE WHERE CASENAME='flight'
+2019-04-07 10:59:54.238 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:59:54.239 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:59:54.290 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554605993415"}
+2019-04-07 10:59:54.290 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"9c8930","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:59:54.959 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 10:59:54.960 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 02:59:53 GMT]}
+2019-04-07 10:59:54.962 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:59:54.962 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:59:54.962 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554605993415"}
+2019-04-07 10:59:54.962 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"CZ3727","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:59:55.134 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 10:59:55.135 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 02:59:53 GMT]}
+2019-04-07 10:59:55.136 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:59:55.136 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:59:55.136 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554605993415"}
+2019-04-07 10:59:55.137 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:59:55.302 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 10:59:55.303 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 02:59:53 GMT]}
+2019-04-07 10:59:55.305 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/null
+2019-04-07 10:59:55.305 INFO  TestCase.TestCase - caseName:flight
+2019-04-07 10:59:55.305 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1554605993415"}
+2019-04-07 10:59:55.305 INFO  TestCase.TestCase - requesBody:{"date":"2019-03-06","vNum":"MF8306","verify":"0","receiverDate":"2019-03-06","cmd":"flyno","md5":"82dacda6c5f46beeb0c21452f0c04b15"}
+2019-04-07 10:59:55.495 INFO  TestCase.TestCase - responseCode:404
+2019-04-07 10:59:55.496 INFO  TestCase.TestCase - responseHeaders:{null=[HTTP/1.1 404 Not Found], Connection=[keep-alive], Content-Length=[42], Date=[Sun, 07 Apr 2019 02:59:53 GMT]}

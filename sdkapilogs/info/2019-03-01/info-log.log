@@ -1,0 +1,4 @@
+2019-03-01 09:21:21.041 INFO  TestCase.TestCase - testUrl:https://sjwt.immi520.com:9300/shijiwangtongscore
+2019-03-01 09:21:21.053 INFO  TestCase.TestCase - caseName:imeisha256值为空
+2019-03-01 09:21:21.054 INFO  TestCase.TestCase - requestHeaders:{"crypt":"3","appid":"CENTNETDATA","apiver":"101","sign":"123456","nz":"1","timestamp":"1551323892003"}
+2019-03-01 09:21:21.054 INFO  TestCase.TestCase - requesBody:{"body":{"imeisha256":""}}

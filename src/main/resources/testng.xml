@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="一个suite下有多条用例" >
+    <parameter name="CONDITION"  value="${CONDITION}"/>
+    <parameter name="URL"  value="${URL}"/>
+    <parameter name="XLSXPATH"  value="${XLSXPATH}"/>
+
+    <test name="只是一个test">
+
+        <classes>
+            <class name="TestCase.excuseTest.ExcuseOldPub">
+                <methods>
+                    <include name="test"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <!-- Test -->
+
+    <listeners>
+        <listener class-name="com.xy.extentReport.ExtentTestNGIReporterListener"/>
+    </listeners>
+
+</suite>
