@@ -83,15 +83,15 @@ public class ExcuseOldPub extends ConstDefineUtil {
         logger.info("用例编号:" + dataMap.get("CASENO"));
         logger.info("用例名称:" + dataMap.get("CASENAME"));
         logger.info("请求头:" + dataMap.get("REQUESTHEADER"));
-        logger.info("请求体:" + dataMap.get("REQUESBODY"));
+        logger.info("请求体:" + dataMap.get("REQUESTBODY"));
         Reporter.log("======================start=========================" );
         Reporter.log("测试地址:" + url);
         Reporter.log("用例编号:" + dataMap.get("CASENO"));
         Reporter.log("用例名称:" + dataMap.get("CASENAME"));
         Reporter.log("请求头:" + dataMap.get("REQUESTHEADER"));
-        Reporter.log("请求体:" + dataMap.get("REQUESBODY"));
+        Reporter.log("请求体:" + dataMap.get("REQUESTBODY"));
 
-        byte[] reqBodyBytes = dataMap.get("REQUESBODY").getBytes(charset);
+        byte[] reqBodyBytes = dataMap.get("REQUESTBODY").getBytes(charset);
         reqBodyBytes = ZipUtil.gzip(reqBodyBytes);
         reqBodyBytes = AESUtils.aesEncrypt(reqBodyBytes, SECRET_AES_KEY.getBytes(charset), AESUtils.ALGORITHM, AES_IV);
         long startTime = System.currentTimeMillis();
